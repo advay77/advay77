@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭I'm currently working on my Wed dev skills<br>👩🏻‍💻 I'm looking to collaborate on Open source projects<br>🤝 I'm looking for help with person with experience<br>🌱I'm currently learning Backend development<br>💭Ask me about my projects and skills<br>⚡I'm a psycho coder
 
+# My Hackathons:
+I have participated in a hackathon named Code Cubicle 2.0 🔥🧑🏻‍💻 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/advay_anand_7/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/advay-anand-a89024277/) 
