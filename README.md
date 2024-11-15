@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on my Wed dev skills<br>👩🏻‍💻 I'm looking to collaborate on Open source projects<br>🤝 I'm looking for help with person with experience<br>🌱I'm currently learning Backend development<br>💭Ask me about my projects and skills<br>⚡I'm a psycho coder
+🔭I'm currently working on my Wed dev skills<br>👩🏻‍💻 I'm looking to collaborate on Open source projects<br>🤝 I'm looking for help with person with experience<br>🌱I'm currently making projects <br>💭Ask me about my projects and skills<br>⚡I'm a psycho coder
 
 # My Hackathons:
 Got the position of top 7 among 250 teams in IIIT GWALIOR HACKATHON (HACKATRON) ✌🏻😎. 
@@ -22,4 +22,3 @@ I have participated in a hackathon named Code Cubicle 2.0 🔥🧑🏻‍💻 .
 ---
 [![](https://visitcount.itsvg.in/api?id=advay77&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
