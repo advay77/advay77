@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on my Developement skills<br>👩🏻‍💻 I'm looking to collaborate on Open source projects<br>🤝 I'm looking for competiting in Hackathons<br>🌱I'm currently making projects<br>💭Ask me about my projects and skills<br>⚡I'm a psycho coder
+🔭I'm currently working on my Web Developement skills<br>👩🏻‍💻 I'm looking to collaborate on Open source projects<br>🤝 I'm looking for competiting in Hackathons<br>🌱I'm currently making projects<br>💭Ask me about my projects and skills<br>⚡I'm a Psycho Coder 
 
 
 ## 🌐 Socials:
