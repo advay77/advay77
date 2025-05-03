@@ -33,3 +33,17 @@
 
 ```plaintext
 Languages:
+
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=advay77&theme=radical&show_icons=true&hide_border=false" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=advay77&theme=radical&hide_border=false" width="49%" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advay77&theme=radical&layout=compact&hide_border=false" width="40%" /> </p>
+
+
+<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=advay77&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" /> </p>
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
+
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=advay77&label=Profile%20Views&color=6&icon=2&pretty=true" /> </p>
+
+<sup><p align="center">🔥 Proudly crafted with passion by <b>Advay Anand</b> | Powered by <a href="https://gprm.itsvg.in">GPRM</a></p></sup>
