@@ -4,9 +4,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=14F7FF&center=true&vCenter=true&width=700&lines=🔥+Web+Dev+Wizard+%7C+Hackathon+Beast;💡+Open+Source+Contributor+%7C+Tech-Enthusiast;💻+DSA+Lover+%7C+Backend+Builder;⚡+Always+in+Code+Mode...+%F0%9F%98%89" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=With+Great+Power+Comes+Great+Code!;Swinging+Through+Stacks+Like+Spidey!;Saving+the+Web+One+Bug+at+a+Time+%F0%9F%91%B7%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</p>
 
-# 💫 About Me:
-🔭I'm currently working on my Web Developement skills<br>👩🏻‍💻 I'm looking to collaborate on Open source projects<br>🤝 I'm looking for competiting in Hackathons<br>🌱I'm currently making projects<br>💭Ask me about my projects and skills<br>⚡I'm a Psycho Coder 
+<p align="center">
+  <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="250" alt="Spiderman Coding GIF">
+</p>
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+</p>
+
+
+# 💫 About Me
+
+- 🔭 I'm currently working on sharpening my **Web Development** skills  
+- 👩🏻‍💻 Open for **collaborating on Open Source projects**  
+- 🤝 Always ready for **Hackathon battles**  
+- 🌱 Currently building new and exciting projects  
+- 💭 Curious? **Ask me** about my projects & stack  
+- ⚡ Fun Fact: I call myself a **Psycho Coder** 🧠🔥
 
 
 ## 🌐 Socials:
