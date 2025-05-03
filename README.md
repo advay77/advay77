@@ -12,15 +12,30 @@
   <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="250" alt="Spiderman Coding GIF">
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" />
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/shadcnui.svg" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="DSA (Logic/Algo)" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40" title="Git" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" title="HTML" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" title="CSS" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40" title="Postman" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8357/8357193.png" width="40" title="API Dev" />
 </p>
+
 
 
 
