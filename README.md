@@ -28,7 +28,6 @@
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="DSA (Logic/Algo)" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40" title="Git" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40" title="Postman" />
   <img src="https://cdn-icons-png.flaticon.com/512/8357/8357193.png" width="40" title="API Dev" />
 </p>
