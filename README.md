@@ -55,13 +55,15 @@
 
 ## 🚀 Featured Projects  
 
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| **🌍 ASTRA (Women Safety Web App)** | HTML, JS, Python, Django, Maps | Location tracking, emergency alert, chatbot |
-| **🚚 AgriFleet (Smart Farmer Logistics)** | React, Express, GPS APIs, MongoDB | Real-time matching of farmers & trucks |
-| **🤖 AI Voice Agent** | FastAPI, Twilio, Whisper, GPT | Human-like voice response with real-time TTS |
-| **💧 Water Quality Monitoring (Hardware)** | Embedded C, ESP32, Streamlit | Top 50 out of 800+ teams (Sharda Hackathon) |
-| **📊 Voice Analysis App** | Python, MongoDB, React | AI-powered pitch, energy, pause detection |
+| Project | Tech Stack | Highlights | Live Demo |
+|--------|------------|------------|-----------|
+| **🌍 Instant-Care** | APIs, Gemini, React.js, Node.js, Maps | Location tracking, emergency alert, chatbot, ayurvedic | [Launch](https://instant-care.vercel.app) |
+| **🌍 ASTRA (Women Safety Web App)** | HTML, JS, Python, Django, Maps | Location tracking, emergency alert, chatbot | [Launch](https://astra-womensafety.vercel.app) |
+| **🚚 AgriFleet (Smart Farmer Logistics)** | React, Express, GPS APIs, MongoDB | Real-time matching of farmers & trucks | [Launch](https://agrifleet.vercel.app) |
+| **🤖 AI Voice Agent** | FastAPI, Twilio, Whisper, GPT | Human-like voice response with real-time TTS | [Launch](https://ai-voice-agent.vercel.app) |
+| **💧 Water Quality Monitoring (Hardware)** | Embedded C, ESP32, Streamlit | Top 50 out of 800+ teams (Sharda Hackathon) | [Launch](https://water-quality.streamlit.app) |
+| **📊 Voice Analysis App** | Python, MongoDB, React | AI-powered pitch, energy, pause detection | [Launch](https://voice-analysis.vercel.app) |
+
 
 🔗 [More Projects on My Portfolio »](https://portfolio-new-plum-psi.vercel.app/)
 
