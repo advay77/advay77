@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Advay Anand – The Psycho Coder 🤯</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🚀 <span style="color:#14F7FF;">Advay Anand</span> – <span style="color:#E62429;">The Psycho Coder 🤯</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=14F7FF&center=true&vCenter=true&width=700&lines=🔥+Full-Stack+Dev+%7C+Hackathon+Champion;💡+Open+Source+Contributor+%7C+Tech-Enthusiast;💻+DSA+Fanatic+%7C+AI/ML+Explorer;⚡+Code+Mode+Always+ON..." alt="Typing SVG" />
@@ -11,6 +11,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="250" alt="Spiderman Coding GIF">
 </p>
+
+---
+
 
 ---
 
