@@ -20,9 +20,9 @@
 ## 💫 About Me  
 🔹 **Name:** Advay Anand  
 🔹 **Tagline:** _“Code with a cause, debug with purpose.”_  
-🔹 **Hackathon Warrior:** Top 50 @ Sharda Hack, Winner @ Azure DevDay, Google Hackathon Participant  
+🔹 **Hackathon Warrior:** Top 50 @ Sharda Hack, Top 20 @ Hackemon, Top 10 @ Code-Kshetra, Winner @ Azure DevDay, Google Hackathon Participant  
 🔹 **Tech Community Leader:** Content & Editorial Head @ E-Cell UIT, Core Team @ TechMasters  
-🔹 **Open Source Contributor:** GSSOC, SWOC  
+🔹 **Open Source Contributor:** GSSOC, SWOC, Langflow 
 🔹 **Builder of Impactful Projects:** From Healthcare Platform (Instant-Care) to Smart Transport (LOCOFY)  
 🔹 **Fascinated by:** Real-time systems, AI agents, hardware integration, web stacks  
 
@@ -57,12 +57,12 @@
 
 | Project | Tech Stack | Highlights | Live Demo |
 |--------|------------|------------|-----------|
-| **🌍 Instant-Care** | APIs, Gemini, React.js, Node.js, Maps | Location tracking, emergency alert, chatbot, ayurvedic | [Launch](https://instant-care.vercel.app) |
-| **🌍 ASTRA (Women Safety Web App)** | HTML, JS, Python, Django, Maps | Location tracking, emergency alert, chatbot | [Launch](https://astra-womensafety.vercel.app) |
-| **🚚 AgriFleet (Smart Farmer Logistics)** | React, Express, GPS APIs, MongoDB | Real-time matching of farmers & trucks | [Launch](https://agrifleet.vercel.app) |
-| **🤖 AI Voice Agent** | FastAPI, Twilio, Whisper, GPT | Human-like voice response with real-time TTS | [Launch](https://ai-voice-agent.vercel.app) |
-| **💧 Water Quality Monitoring (Hardware)** | Embedded C, ESP32, Streamlit | Top 50 out of 800+ teams (Sharda Hackathon) | [Launch](https://water-quality.streamlit.app) |
-| **📊 Voice Analysis App** | Python, MongoDB, React | AI-powered pitch, energy, pause detection | [Launch](https://voice-analysis.vercel.app) |
+| **🌍 Instant-Care** | APIs, Gemini, React.js, Node.js, Maps | Location tracking, emergency alert, chatbot, ayurvedic | [Preview](https://instant-care.vercel.app) |
+| **🌍 Safe-Her (Women Safety Web App)** | Next.js, Python, Maps | Location tracking, emergency alert, chatbot | [Preview](https://guardian-voice-web.lovable.app/)) |
+| **🚚 Locofy (Smart AI Travel)** | Next.js, Express, GPS APIs, Python, MongoDB | Real-time matching of face & tickets | [Preview](https://train-guard.vercel.app/) |
+| **🤖 Bio-Pay(Smart Payment)** | Next.js, API's, Node.js, IOT | Seamless cashless payments replacing UPI's| [Preview](https://bio-pay-connect.vercel.app/) |
+| **💧 Cursed-Code (Hackathon Website)** | Organized a CTF Event in MAIT Institute at Bizbyte| | [Preview](https://capture-the-flag-kappa.vercel.app/) |
+| **📊 Safe-Her** | Flask, MongoDB, Next.js | SOS, Live location, Leaflet(Maps) | [Preview](https://guardian-voice-web.lovable.app/) |
 
 
 🔗 [More Projects on My Portfolio »](https://portfolio-new-plum-psi.vercel.app/)
