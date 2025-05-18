@@ -20,8 +20,8 @@
 ## 💫 About Me  
 🔹 **Name:** Advay Anand  
 🔹 **Tagline:** _“Code with a cause, debug with purpose.”_  
-🔹 **Hackathon Warrior:** Top 50 @ Sharda Hack, Top 20 @ Hackemon, Top 10 @ Code-Kshetra, Winner @ Azure DevDay, Google Hackathon Participant  
-🔹 **Tech Community Leader:** Content & Editorial Head @ E-Cell UIT, Core Team @ TechMasters  
+🔹 **Hackathon Warrior:** #x Hackathon Finalist, Top 50 Sharda, Top 20 HAckemon, Top 10 Code Kshetra 
+🔹 **Tech Community Leader:** Core Team @ TechMasters ,Content & Editorial Head @ E-Cell UIT  
 🔹 **Open Source Contributor:** GSSOC, SWOC, Langflow 
 🔹 **Builder of Impactful Projects:** From Healthcare Platform (Instant-Care) to Smart Transport (LOCOFY)  
 🔹 **Fascinated by:** Real-time systems, AI agents, hardware integration, web stacks  
@@ -58,7 +58,7 @@
 | Project | Tech Stack | Highlights | Live Demo |
 |--------|------------|------------|-----------|
 | **🌍 Instant-Care** | APIs, Gemini, React.js, Node.js, Maps | Location tracking, emergency alert, chatbot, ayurvedic | [Preview](https://instant-care.vercel.app) |
-| **🌍 Safe-Her (Women Safety Web App)** | Next.js, Python, Maps | Location tracking, emergency alert, chatbot | [Preview](https://guardian-voice-web.lovable.app/)) |
+| **🌍 Safe-Her (Women Safety Web App)** | Next.js, Python, Maps | Location tracking, emergency alert, chatbot | [Preview](https://guardian-voice-web.lovable.app/) |
 | **🚚 Locofy (Smart AI Travel)** | Next.js, Express, GPS APIs, Python, MongoDB | Real-time matching of face & tickets | [Preview](https://train-guard.vercel.app/) |
 | **🤖 Bio-Pay(Smart Payment)** | Next.js, API's, Node.js, IOT | Seamless cashless payments replacing UPI's| [Preview](https://bio-pay-connect.vercel.app/) |
 | **💧 Cursed-Code (Hackathon Website)** | Organized a CTF Event in MAIT Institute at Bizbyte| | [Preview](https://capture-the-flag-kappa.vercel.app/) |
