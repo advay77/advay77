@@ -59,7 +59,7 @@
 | **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Face-ticket matching, real-time GPS sync | ✅ Live |
 | **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | Next.js, IoT, Node.js | Biometric + AI based UPI replacement | ✅ Live |
 | **🧠 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon Website for BizByte, MAIT | ✅ Live |
-| **📊 [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Flask, MongoDB, Maps | SOS, Leaflet maps, geofencing | ✅ Live |
+| **📊 [Restoran](https://github.com/advay77/RESTORAN)** | Next.js, Flask, MongoDB | UI, Taste, Booking | ✅ Live |
 
 > 🧠 Want more? [Explore My Portfolio »](https://portfolio-new-plum-psi.vercel.app/)
 
