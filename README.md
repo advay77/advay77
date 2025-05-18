@@ -21,6 +21,7 @@
 🔹 **Name:** Advay Anand  
 🔹 **Tagline:** _“Code with a cause, debug with purpose.”_  
 🔹 **Hackathon Warrior:** #x Hackathon Finalist, Top 50 Sharda, Top 20 HAckemon, Top 10 Code Kshetra 
+
 🔹 **Tech Community Leader:** Core Team @ TechMasters ,Content & Editorial Head @ E-Cell UIT  
 🔹 **Open Source Contributor:** GSSOC, SWOC, Langflow 
 🔹 **Builder of Impactful Projects:** From Healthcare Platform (Instant-Care) to Smart Transport (LOCOFY)  
