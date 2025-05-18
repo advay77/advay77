@@ -12,19 +12,6 @@
   <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="250" alt="Spiderman Coding GIF">
 </p>
 
----
-
-
----
-
-<h1 align="center">Hey, I'm Advay Anand 👋</h1>
-<p align="center">
-  <i>"Code with a cause, debug with purpose."</i>  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7941D&width=500&lines=%F0%9F%94%A5+Hackathon+Finalist+%7C+Tech+Community+Leader+%7C+Open+Source+Contributor+%F0%9F%94%A5;Building+impactful+AI+%26+IoT+solutions...;Let%27s+connect+and+build+something+awesome+%F0%9F%9A%80" />
-</p>
 
 ---
 
@@ -77,22 +64,6 @@
 > 🧠 Want more? [Explore My Portfolio »](https://portfolio-new-plum-psi.vercel.app/)
 
 ---
-
-## 🌐 Let's Connect & Collaborate  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/advay-anand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:advayanand@proton.me"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/advayanand" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github" /></a>
-  <a href="https://twitter.com/advaycodes" target="_blank"><img src="https://img.shields.io/badge/X-black?logo=x" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=advayanand&show_icons=true&theme=react&hide=issues&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=advayanand&theme=react" width="48%" />
-</p>
 
 ## 📊 GitHub Stats
 
