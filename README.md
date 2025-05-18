@@ -17,17 +17,26 @@
 
 ---
 
+<h1 align="center">Hey, I'm Advay Anand 👋</h1>
+<p align="center">
+  <i>"Code with a cause, debug with purpose."</i>  
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7941D&width=500&lines=%F0%9F%94%A5+Hackathon+Finalist+%7C+Tech+Community+Leader+%7C+Open+Source+Contributor+%F0%9F%94%A5;Building+impactful+AI+%26+IoT+solutions...;Let%27s+connect+and+build+something+awesome+%F0%9F%9A%80" />
+</p>
+
+---
+
 ## 💫 About Me  
-🔹 **Name:** Advay Anand  
-🔹 **Tagline:** _“Code with a cause, debug with purpose.”_  
-🔹 **Hackathon Warrior:** #x Hackathon Finalist, Top 50 Sharda, Top 20 HAckemon, Top 10 Code Kshetra 
-
-🔹 **Tech Community Leader:** Core Team @ TechMasters ,Content & Editorial Head @ E-Cell UIT  
-🔹 **Open Source Contributor:** GSSOC, SWOC, Langflow 
-🔹 **Builder of Impactful Projects:** From Healthcare Platform (Instant-Care) to Smart Transport (LOCOFY)  
-🔹 **Fascinated by:** Real-time systems, AI agents, hardware integration, web stacks  
-
-> ⚡ Fun Fact: I call myself a **Psycho Coder** because I don't just solve problems — I **obliterate bugs** and **architect insane ideas** into reality.
+- 👨‍💻 **Name:** Advay Anand  
+- 🧠 **Tagline:** _“Code with a cause, debug with purpose.”_  
+- 🏆 **Hackathon Warrior:** #x Finalist — Top 50 (Sharda), Top 20 (Hackemon), Top 10 (Code Kshetra)  
+- 🧑‍💼 **Tech Community Leader:** Core @ TechMasters, Editorial Head @ E-Cell UIT  
+- 🌱 **Open Source Contributor:** GSSOC, SWOC, Langflow  
+- 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart Travel 🚂 (`LOCOFY`)  
+- 🤖 **Loves:** Real-time systems, AI agents, hardware+web fusion  
+- ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥
 
 ---
 
@@ -56,19 +65,34 @@
 
 ## 🚀 Featured Projects  
 
-| Project | Tech Stack | Highlights | Live Demo |
-|--------|------------|------------|-----------|
-| **🌍 Instant-Care** | APIs, Gemini, React.js, Node.js, Maps | Location tracking, emergency alert, chatbot, ayurvedic | [Preview](https://instant-care.vercel.app) |
-| **🌍 Safe-Her (Women Safety Web App)** | Next.js, Python, Maps | Location tracking, emergency alert, chatbot | [Preview](https://guardian-voice-web.lovable.app/) |
-| **🚚 Locofy (Smart AI Travel)** | Next.js, Express, GPS APIs, Python, MongoDB | Real-time matching of face & tickets | [Preview](https://train-guard.vercel.app/) |
-| **🤖 Bio-Pay(Smart Payment)** | Next.js, API's, Node.js, IOT | Seamless cashless payments replacing UPI's| [Preview](https://bio-pay-connect.vercel.app/) |
-| **💧 Cursed-Code (Hackathon Website)** | Organized a CTF Event in MAIT Institute at Bizbyte| | [Preview](https://capture-the-flag-kappa.vercel.app/) |
-| **📊 Safe-Her** | Flask, MongoDB, Next.js | SOS, Live location, Leaflet(Maps) | [Preview](https://guardian-voice-web.lovable.app/) |
+| 🚨 Project | ⚙️ Stack | ✨ Highlights | 🔗 Demo |
+|-----------|----------|---------------|---------|
+| **🌍 [Instant-Care](https://instant-care.vercel.app)** | APIs, Gemini, React, Node, Maps | Emergency alert, chatbot, ayurvedic health guide | ✅ Live |
+| **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps, Mongo | Women safety, voice SOS, live tracking | ✅ Live |
+| **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Face-ticket matching, real-time GPS sync | ✅ Live |
+| **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | Next.js, IoT, Node.js | Biometric + AI based UPI replacement | ✅ Live |
+| **🧠 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon Website for BizByte, MAIT | ✅ Live |
+| **📊 Safe-Her (Again!)** | Flask, MongoDB, Maps | SOS, Leaflet maps, geofencing | ✅ Live |
 
-
-🔗 [More Projects on My Portfolio »](https://portfolio-new-plum-psi.vercel.app/)
+> 🧠 Want more? [Explore My Portfolio »](https://portfolio-new-plum-psi.vercel.app/)
 
 ---
+
+## 🌐 Let's Connect & Collaborate  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/advay-anand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+  <a href="mailto:advayanand@proton.me"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/advayanand" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github" /></a>
+  <a href="https://twitter.com/advaycodes" target="_blank"><img src="https://img.shields.io/badge/X-black?logo=x" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=advayanand&show_icons=true&theme=react&hide=issues&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=advayanand&theme=react" width="48%" />
+</p>
 
 ## 📊 GitHub Stats
 
