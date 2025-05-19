@@ -1,16 +1,24 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🚀 <span style="color:#14F7FF;">Advay Anand</span> – <span style="color:#E62429;">The Psycho Coder 🤯</span></h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.8rem;">
+  🕸️ <span style="color:#14F7FF; text-shadow: 0 0 10px #14F7FF;">Advay Anand</span> – 
+  <span style="color:#E62429; text-shadow: 0 0 10px #E62429;">The Psycho Coder 🤯</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=14F7FF&center=true&vCenter=true&width=700&lines=🔥+Full-Stack+Dev+%7C+Hackathon+Champion;💡+Open+Source+Contributor+%7C+Tech-Enthusiast;💻+DSA+Fanatic+%7C+AI/ML+Explorer;⚡+Code+Mode+Always+ON..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=14F7FF&center=true&vCenter=true&width=750&lines=🔥+Full-Stack+Dev+%7C+Hackathon+Champion;💡+Open+Source+Contributor+%7C+Tech-Enthusiast;💻+DSA+Fanatic+%7C+AI/ML+Explorer;🧠+Fast+Thinker+%7C+Code+Like+a+Superpower" alt="Typing SVG 1" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=With+Great+Power+Comes+Great+Code!;Swinging+Through+Stacks+Like+Spidey!;Saving+the+Web+One+Bug+at+a+Time+%F0%9F%91%B7%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=700&lines=With+Great+Power+Comes+Great+Code!;Swinging+Through+Stacks+Like+Spidey!;Saving+the+Web+One+Bug+at+a+Time+%F0%9F%91%B7%E2%9D%A4%EF%B8%8F;🕷️+Coded+in+the+Spider-Verse!" alt="Typing SVG 2" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="250" alt="Spiderman Coding GIF">
+  <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="260" alt="Spiderman Coding GIF">
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Web-Slinger%20%7C%20Stack-Warrior%20%7C%20Debugger%20Hunter&fontSize=24&fontColor=ffffff&desc=🕸️+Welcome+to+my+multiverse+of+code!+🧠&descAlignY=65&descAlign=65" alt="Banner">
+</p>
+
 
 
 ---
