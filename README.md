@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=700&lines=With+Great+Power+Comes+Great+Code!;Swinging+Through+Stacks+Like+Spidey!;Saving+the+Web+One+Bug+at+a+Time+%F0%9F%91%B7%E2%9D%A4%EF%B8%8F;🕷️+Coded+in+the+Spider-Verse!" alt="Typing SVG 2" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Web-Slinger%20%7C%20Stack-Warrior%20%7C%20Debugger%20Hunter&fontSize=24&fontColor=ffffff&desc=🕸️+Welcome+to+my+multiverse+of+code!+🧠&descAlignY=65&descAlign=65" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay-Anand%20%7C%20Stack-Warrior%20%7C%20Debugger%20Hunter&fontSize=24&fontColor=ffffff&desc=🕸️+Welcome+to+my+multiverse+of+code!+🧠&descAlignY=65&descAlign=65" alt="Banner">
 </p>
 
 
