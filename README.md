@@ -68,19 +68,8 @@
 
 ---
 
-## 🚀 ✍️ Quote for the Devs
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote"/>
-</p>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Made%20for-Developers-1f425f?style=for-the-badge&logo=github&logoColor=white&color=blueviolet">
-  <img src="https://img.shields.io/badge/Keep-Coding-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Powered%20By-Inspiration-FF69B4?style=for-the-badge&logo=quote&logoColor=white">
-
-</div>
+## ✍️ Quote for the Devs  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
 
 ---
