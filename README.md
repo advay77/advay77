@@ -3,9 +3,6 @@
 </p>
 
 
-
----
-
 ## 💫 About Me  
 - 👨‍💻 **Name:** Advay Anand  
 - 🧠 **Tagline:** _“Code with a cause, debug with purpose.”_  
