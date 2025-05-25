@@ -42,7 +42,7 @@
 
 | 🚨 Project | ⚙️ Stack | ✨ Highlights | 🔗 Demo |
 |-----------|----------|---------------|---------|
-| **🌍 [Instant-Care](https://instant-care.vercel.app)** | APIs, Gemini, React, Node, Maps | Emergency alert, chatbot, ayurvedic health guide | ✅ Live |
+| **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | APIs, Gemini, React, Node, Maps | Emergency alert, chatbot, ayurvedic health guide | ✅ Live |
 | **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps, Mongo | Women safety, voice SOS, live tracking | ✅ Live |
 | **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Face-ticket matching, real-time GPS sync | ✅ Live |
 | **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | Next.js, IoT, Node.js | Biometric + AI based UPI replacement | ✅ Live |
