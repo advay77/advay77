@@ -6,8 +6,8 @@
 ## 💫 About Me  
 - 👨‍💻 **Name:** Advay Anand  
 - 🧠 **Tagline:** _“Code with a cause, debug with purpose.”_  
-- 🏆 **Hackathon Warrior:** #x Finalist — Top 50 (Sharda), Top 20 (Hackemon), Top 10 (Code Kshetra)  
-- 🧑‍💼 **Tech Community Leader:** Core @ TechMasters, Editorial Head @ E-Cell UIT  
+- 🏆 **Hackathon Warrior:** #3X Finalist — Top 50 (Sharda), Top 20 (Hackemon), Top 10 (Code Kshetra)  
+- 🧑‍💼 **Tech Community Leader:** Core Team @ TechMasters, 
 - 🌱 **Open Source Contributor:** GSSOC, SWOC, Langflow  
 - 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart Travel 🚂 (`LOCOFY`)  
 - 🤖 **Loves:** Real-time systems, AI agents, hardware+web fusion  
