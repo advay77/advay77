@@ -7,7 +7,7 @@
 - 👨‍💻 **Name:** Advay Anand  
 - 🧠 **Tagline:** _“Code with a cause, debug with purpose.”_  
 - 🏆 **Hackathon Warrior:** #3X Finalist — Top 50 (Sharda), Top 20 (Hackemon), Top 10 (Code Kshetra)  
-- 🧑‍💼 **Tech Community Leader:** Core Team @ TechMasters, 
+- 🧑‍💼 **Tech Community Leader:** Core Team @ TechMasters, with 1500+ Members 
 - 🌱 **Open Source Contributor:** GSSOC, SWOC, Langflow  
 - 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart Travel 🚂 (`LOCOFY`)  
 - 🤖 **Loves:** Real-time systems, AI agents, hardware+web fusion  
@@ -43,11 +43,12 @@
 | 🚨 Project | ⚙️ Stack | ✨ Highlights | 🔗 Demo |
 |-----------|----------|---------------|---------|
 | **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | APIs, Gemini, React, Node, Maps | Emergency alert, chatbot, ayurvedic health guide | ✅ Live |
-| **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps, Mongo | Women safety, voice SOS, live tracking | ✅ Live |
 | **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Face-ticket matching, real-time GPS sync | ✅ Live |
 | **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | Next.js, IoT, Node.js | Biometric + AI based UPI replacement | ✅ Live |
-| **🧠 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon Website for BizByte, MAIT | ✅ Live |
 | **📊 [Restoran](https://roaring-pegasus-093c10.netlify.app/)** | Next.js, Flask, MongoDB | UI, Taste, Booking | ✅ Live |
+| **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps, Mongo | Women safety, voice SOS, live tracking | ✅ Live |
+| **🧠 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon Website for BizByte, MAIT | ✅ Live |
+
 
 > 🧠 Want more? [Explore My Portfolio »](https://portfolio-new-plum-psi.vercel.app/)
 
