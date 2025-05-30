@@ -1,17 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay-Anand%20%7C%20Stack-Warrior%20%7C%20Debugger%20Hunter&fontSize=24&fontColor=ffffff&desc=🕸️+Welcome+to+my+multiverse+of+code!+🧠&descAlignY=65&descAlign=65" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay-Anand%20%7C%20Psycho-Coder%20%7C%20Debugger%20Hunter&fontSize=24&fontColor=ffffff&desc=🕸️+Welcome+to+my+multiverse+of+code!+🧠&descAlignY=65&descAlign=65" alt="Banner">
 </p>
 
 
 ## 💫 About Me  
 - 👨‍💻 **Name:** Advay Anand  
-- 🧠 **Tagline:** _“Code with a cause, debug with purpose.”_  
 - 🏆 **Hackathon Warrior:** #3X Finalist — Top 50 (Sharda), Top 20 (Hackemon), Top 10 (Code Kshetra)  
 - 🧑‍💼 **Tech Community Leader:** Core Team @ TechMasters, with 1500+ Members 
 - 🌱 **Open Source Contributor:** GSSOC, SWOC, Langflow  
 - 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart Travel 🚂 (`LOCOFY`)  
-- 🤖 **Loves:** Real-time systems, AI agents, hardware+web fusion  
 - ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥
+
+---
+## 🌐 Let's Connect!
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/advay_anand_7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/advay-anand-a89024277)  
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/AnandAdvay91289)  
 
 ---
 
@@ -74,15 +79,6 @@
 
 ## 🔝 Most Active Contributions  
 ![](https://github-contributor-stats.vercel.app/api?username=advay77&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
----
-
-## 🌐 Let's Connect!
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/advay_anand_7)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/advay-anand-a89024277)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/AnandAdvay91289)  
-[![Vercel Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-new-plum-psi.vercel.app/)
 
 ---
 
