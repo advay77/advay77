@@ -74,12 +74,3 @@
 
 
 ---
-
-## 🔝 Most Active Contributions  
-![](https://github-contributor-stats.vercel.app/api?username=advay77&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=advay77&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Powered by GPRM + ChatGPT Custom Magic 🧙‍♂️ -->
