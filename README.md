@@ -10,6 +10,7 @@
 - 🌱 **Open Source Contributor:** GSSOC, SWOC, Langflow  
 - 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart Travel 🚂 (`LOCOFY`)  
 - ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥
+- 📖 **Current Status:** I'm currently focusing on DevOps + Full Stack
 
 ---
 ## 🌐 Let's Connect!
