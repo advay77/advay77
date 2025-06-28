@@ -57,6 +57,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" title="Express.js"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="DSA"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40" title="Git"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="40" title="GitLab"/>
