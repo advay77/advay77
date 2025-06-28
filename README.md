@@ -15,11 +15,18 @@
 ---
 ## 🌐 Let's Connect!
 
-[![Instagram](https://img.shields.io/badge/-Instagram-white?logo=instagram&logoColor=E4405F&style=flat&label=)](https://instagram.com/advay_anand_7)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=0077B5&style=flat&label=)](https://linkedin.com/in/advay-anand-a89024277)
-[![X](https://img.shields.io/badge/-X-white?logo=x&logoColor=000000&style=flat&label=)](https://x.com/AnandAdvay91289)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-white?logo=leetcode&logoColor=FFA116&style=flat&label=)](https://leetcode.com/AdvayAnand7/)
-
+<a href="https://instagram.com/advay_anand_7" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24" alt="Instagram"/>
+</a>
+<a href="https://linkedin.com/in/advay-anand-a89024277" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/AnandAdvay91289" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="24" alt="X"/>
+</a>
+<a href="https://leetcode.com/AdvayAnand7/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="24" alt="LeetCode"/>
+</a>
 
 ---
 
