@@ -52,7 +52,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" title="Python"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" title="Redux Toolkit"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
