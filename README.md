@@ -32,7 +32,7 @@
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/AdvayAnand7/" target="_blank">
+  <a href="https://leetcode.com/u/Advay87/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="32" alt="LeetCode" />
   </a>
 </div>
@@ -88,8 +88,4 @@
 
 ---
 
-## ✍️ Quote for the Devs  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
-
----
