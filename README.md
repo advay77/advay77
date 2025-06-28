@@ -15,18 +15,28 @@
 ---
 ## 🌐 Let's Connect!
 
-<a href="https://instagram.com/advay_anand_7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" alt="Instagram" style="filter: invert(29%) sepia(89%) saturate(749%) hue-rotate(316deg) brightness(98%) contrast(95%);">
-</a>
-<a href="https://linkedin.com/in/advay-anand-a89024277" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" alt="LinkedIn" style="filter: invert(33%) sepia(99%) saturate(749%) hue-rotate(178deg) brightness(91%) contrast(93%);">
-</a>
-<a href="https://x.com/AnandAdvay91289" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" alt="X" style="filter: brightness(0%);">
-</a>
-<a href="https://leetcode.com/AdvayAnand7/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" alt="LeetCode" style="filter: invert(77%) sepia(58%) saturate(436%) hue-rotate(356deg) brightness(103%) contrast(94%);">
-</a>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <!-- Instagram -->
+  <a href="https://instagram.com/advay_anand_7" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/advay-anand-a89024277" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn" />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/AnandAdvay91289" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="32" alt="X" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/AdvayAnand7/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="32" alt="LeetCode" />
+  </a>
+</div>
+
 
 
 ---
