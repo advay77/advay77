@@ -16,17 +16,18 @@
 ## 🌐 Let's Connect!
 
 <a href="https://instagram.com/advay_anand_7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24" alt="Instagram"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" alt="Instagram" style="filter: invert(29%) sepia(89%) saturate(749%) hue-rotate(316deg) brightness(98%) contrast(95%);">
 </a>
 <a href="https://linkedin.com/in/advay-anand-a89024277" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" alt="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" alt="LinkedIn" style="filter: invert(33%) sepia(99%) saturate(749%) hue-rotate(178deg) brightness(91%) contrast(93%);">
 </a>
 <a href="https://x.com/AnandAdvay91289" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="24" alt="X"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" alt="X" style="filter: brightness(0%);">
 </a>
 <a href="https://leetcode.com/AdvayAnand7/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="24" alt="LeetCode"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" alt="LeetCode" style="filter: invert(77%) sepia(58%) saturate(436%) hue-rotate(356deg) brightness(103%) contrast(94%);">
 </a>
+
 
 ---
 
