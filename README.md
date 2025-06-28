@@ -43,18 +43,26 @@
 
 ## 🛠️ My Tech Toolbox  
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="DSA"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40" title="Git"/>
+<!-- Existing Icons -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" title="C"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" title="React"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" title="Redux Toolkit"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" title="Express.js"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="DSA"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40" title="Git"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="40" title="GitLab"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud"/>
+
 
 </p>
 
