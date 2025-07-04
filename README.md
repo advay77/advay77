@@ -11,6 +11,7 @@
 - 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart Travel 🚂 (`LOCOFY`)  
 - ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥
 - 📖 **Current Status:** I'm currently focusing on DevOps + Full Stack
+- 💼 **FRONT-END INTERN:** Ex-Intern in a startup named Growbinar🕴🏻
 
 ---
 ## 🌐 Let's Connect!
