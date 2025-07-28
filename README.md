@@ -94,9 +94,9 @@
 
 ## 🏅 LeetCode Badges
 
-[![June Badge](https://leetcode.com/medal/?showImg=0&id=7076894&isLevel=false)](https://leetcode.com/Advay87/)
-[![50 Days Badge](https://leetcode.com/medal/?showImg=0&id=7076895&isLevel=false)](https://leetcode.com/Advay87/)
-[![100 Days Badge](https://leetcode.com/medal/?showImg=0&id=7076896&isLevel=false)](https://leetcode.com/Advay87/)
+[![June Badge](https://leetcode.com/medal/?showImg=0&id=7388570&isLevel=false)](https://leetcode.com/Advay87/)
+[![50 Days Badge](https://leetcode.com/medal/?showImg=0&id=7076894&isLevel=false)](https://leetcode.com/Advay87/)
+[![100 Days Badge](https://leetcode.com/medal/?showImg=0&id=7538132&isLevel=false)](https://leetcode.com/Advay87/)
 
 
 ## 🏆 GitHub Trophies  
