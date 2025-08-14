@@ -74,7 +74,7 @@
 | **🧠 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon Website for BizByte, MAIT | ✅ Live |
 
 
-> 🧠 Want more? [Explore My Portfolio »](https://portfolio-new-plum-psi.vercel.app/)
+> 🧠 Want more? [Explore My Portfolio »](https://personal-bay-omega.vercel.app/)
 
 ---
 
