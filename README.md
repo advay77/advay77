@@ -11,7 +11,7 @@
 - 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart Travel 🚂 (`LOCOFY`)  
 - ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥
 - 📖 **Current Status:** I'm currently focusing on DevOps + Full Stack
-- 💼 **FRONT-END INTERN:** Ex-Intern in a startup named Growbinar🕴🏻
+- 💼 **INTERNSHIP:** Ex-Intern Growbinar, Current Intern ZeroDayArena..(ZDA)🕴🏻
 
 ---
 ## 🌐 Let's Connect!
@@ -82,11 +82,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=advay77&theme=tokyonight&hide_border=false&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=advay77&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=advay77&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
