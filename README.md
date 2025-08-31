@@ -8,7 +8,7 @@
 - 🏆 **Hackathon Warrior:** #3X Finalist — Top 7 (Sharda), Top 20 (Hackemon), Top 10 (Code Kshetra)  
 - 🧑‍💼 **Tech Community Leader:** Core Team @ TechMasters, with 1500+ Members 
 - 🌱 **Open Source Contributor:** GSSOC, SWOC, Langflow  
-- 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart Travel 🚂 (`LOCOFY`)  
+- 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart AI 🤖 (`Neura-Twin`)  
 - ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥
 - 📖 **Current Status:** I'm currently focusing on DevOps + Full Stack
 - 💼 **INTERNSHIP:** Ex-Intern Growbinar, Current Intern ZeroDayArena..(ZDA)🕴🏻
@@ -66,6 +66,7 @@
 
 | 🚨 Project | ⚙️ Stack | ✨ Highlights | 🔗 Demo |
 |-----------|----------|---------------|---------|
+| **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | React, Node, Next.js, Eleven Labs, MongoDB | Personal AI, Personality test, UI/UX | ✅ Live |
 | **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | APIs, Gemini, React, Node, Maps | Emergency alert, chatbot, ayurvedic health guide | ✅ Live |
 | **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Face-ticket matching, real-time GPS sync | ✅ Live |
 | **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | Next.js, IoT, Node.js | Biometric + AI based UPI replacement | ✅ Live |
