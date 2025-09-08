@@ -6,12 +6,13 @@
 ## 💫 About Me  
 - 👨‍💻 **Name:** Advay Anand  
 - 🏆 **Hackathon Warrior:** #3X Finalist — Top 7 (Sharda), Top 20 (Hackemon), Top 10 (Code Kshetra)  
-- 🧑‍💼 **Tech Community Leader:** Core Team @ TechMasters, with 1500+ Members 
+- 🧑‍💼 **Tech Community Leader:** Core Team @ TechMasters, with 15000+ Members 
 - 🌱 **Open Source Contributor:** GSSOC, SWOC, Langflow  
 - 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart AI 🤖 (`Neura-Twin`)  
 - ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥
 - 📖 **Current Status:** I'm currently focusing on DevOps + Full Stack
 - 💼 **INTERNSHIP:** Ex-Intern Growbinar, Current Intern ZeroDayArena..(ZDA)🕴🏻
+- 💵 **FREELANCING** A freelancer with 10+ done projects and attract foreign clients 🙃😎
 
 ---
 ## 🌐 Let's Connect!
