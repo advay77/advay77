@@ -80,11 +80,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=advay77&theme=tokyonight&hide_border=false&count_private=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=advay77&theme=tokyonight&hide_border=false&layout=compact)
-
----
 
 
