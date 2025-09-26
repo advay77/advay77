@@ -12,7 +12,7 @@
 - ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥
 - 📖 **Current Status:** I'm currently focusing on DevOps + Full Stack
 - 💼 **INTERNSHIP:** Ex-Intern Growbinar, Current Intern ZeroDayArena..(ZDA)🕴🏻
-- 💵 **FREELANCING** A freelancer with 10+ done projects and attract foreign clients 🙃😎
+- 💵 **FREELANCING** A freelancer with 10+ done projects and attract foreign clients 😁🫱🏻‍🫲🏻😎
 
 ---
 ## 🌐 Let's Connect!
