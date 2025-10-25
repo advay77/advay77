@@ -1,84 +1,89 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay-Anand%20%7C%20Psycho-Coder%20%7C%20Debugger%20Hunter&fontSize=24&fontColor=ffffff&desc=🕸️+Welcome+to+my+multiverse+of+code!+🧠&descAlignY=65&descAlign=65" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay%20Anand%20⚡%20Psycho%20Coder%20&fontSize=32&fontColor=ffffff&desc=🕸️+Welcome+to+my+Multiverse+of+Code!+🧠&descAlignY=65" alt="Banner">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;AI+%26+DevOps+Enthusiast+🤖;Freelancer+%7C+Debugger+Hunter+🔥;Hackathon+Finalist+🏆;Open+Source+Contributor+🌍" alt="Typing Animation" />
+</p>
+
+---
 
 ## 💫 About Me  
-- 👨‍💻 **Name:** Advay Anand  
-- 🏆 **Hackathon Warrior:** #3X Finalist — Top 7 (Sharda), Top 20 (Hackemon), Top 10 (Code Kshetra)  
-- 🧑‍💼 **Tech Community Leader:** Core Team @ TechMasters, with 15000+ Members (Web Developer)
-- 🌱 **Open Source Contributor:** GSSOC, SWOC, Langflow  
-- 🛠️ **Builder of Impact:** From Healthcare 🚑 (`Instant-Care`) to Smart AI 🤖 (`Neura-Twin`)  
-- ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥
-- 📖 **Current Status:** I'm currently focusing on DevOps + Full Stack
-- 💼 **INTERNSHIP:** Ex-Intern Growbinar, Current Intern ZeroDayArena..(ZDA)🕴🏻
-- 💵 **FREELANCING** A freelancer with 10+ done projects and attract foreign clients 😁🫱🏻‍🫲🏻😎
+
+- 👨‍💻 **Name:** *Advay Anand*  
+- 🏆 **Hackathon Warrior:** *3× Finalist* — Top 7 *(Sharda)*, Top 20 *(Hackemon)*, Top 10 *(Code Kshetra)*  
+- 🧑‍💼 **Tech Community Leader:** Core Team @ **TechMasters** (15K+ members)  
+- 🌱 **Open Source Contributor:** *GSSOC*, *SWOC*, *Langflow*  
+- 🛠️ **Builder of Impact:** From **Healthcare 🚑 (`Instant-Care`)** to **AI 🤖 (`Neura-Twin`)**  
+- 💼 **Internships:** *Ex-Intern @ Growbinar*, *Intern @ ZeroDayArena (ZDA)*  
+- 💵 **Freelancer:** 10+ completed projects ✈️ attracting **foreign clients**  
+- ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥  
+- 📚 **Current Focus:** *Full Stack + DevOps + System Design*  
 
 ---
-## 🌐 Let's Connect!
 
-<div style="display: flex; gap: 15px; align-items: center;">
-  <!-- Instagram -->
+## 🌐 Connect With Me  
+
+<p align="center">
   <a href="https://instagram.com/advay_anand_7" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
-
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/advay-anand-a89024277" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-
-  <!-- X (Twitter) -->
   <a href="https://x.com/AnandAdvay91289" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="32" alt="X" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
   </a>
-
-  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Advay87/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="32" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="40" alt="LeetCode" />
   </a>
-</div>
-
-
+  <a href="https://personal-bay-omega.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ My Tech Toolbox  
-<p align="left">
-<!-- Existing Icons -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" title="C"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" title="React"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+## 🧰 Tech Toolbox  
 
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vercel,aws,firebase,c,cpp,python" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-| 🚨 Project | ⚙️ Stack | ✨ Highlights | 🔗 Demo |
-|-----------|----------|---------------|---------|
-| **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | React, Node, Next.js, Eleven Labs, MongoDB | Personal AI, Personality test, UI/UX | ✅ Live |
+| 🚀 Project | 🧠 Stack | ✨ Highlights | 🌍 Demo |
+|------------|----------|---------------|---------|
+| **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | React, Node, Next.js, ElevenLabs, MongoDB | Personal AI, Personality test, custom UI/UX | ✅ Live |
 | **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | APIs, Gemini, React, Node, Maps | Emergency alert, chatbot, ayurvedic health guide | ✅ Live |
-| **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Face-ticket matching, real-time GPS sync | ✅ Live |
+| **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Face-ticket match, real-time GPS sync | ✅ Live |
 | **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | Next.js, IoT, Node.js | Biometric + AI based UPI replacement | ✅ Live |
-| **📊 [Restoran](https://roaring-pegasus-093c10.netlify.app/)** | Next.js, Flask, MongoDB | UI, Taste, Booking | ✅ Live |
-| **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps, Mongo | Women safety, voice SOS, live tracking | ✅ Live |
-| **🧠 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon Website for BizByte, MAIT | ✅ Live |
+| **📊 [Restoran](https://roaring-pegasus-093c10.netlify.app/)** | Next.js, Flask, MongoDB | Restaurant booking + recommendation UI | ✅ Live |
+| **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps | Women safety, voice SOS, live tracking | ✅ Live |
+| **🧠 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon website for BizByte MAIT | ✅ Live |
 
-
-> 🧠 Want more? [Explore My Portfolio »](https://personal-bay-omega.vercel.app/)
+> 🧩 Explore all projects on my [🌐 **Portfolio**](https://personal-bay-omega.vercel.app/)
 
 ---
 
+## 🏆 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronitrai27&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitrai27&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitrai27&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+## 🧠 Quote I Live By  
+> *“Code like there’s no tomorrow, debug like you own the universe.”* 🚀  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=100&section=footer" />
+</p>
