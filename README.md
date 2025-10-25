@@ -47,7 +47,7 @@
 ## 🧰 Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vercel,aws,firebase,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vercel,firebase,,cpp,python" />
 </p>
 
 ---
