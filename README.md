@@ -18,7 +18,7 @@
 - 💼 **Internships:** *Ex-Intern @ Growbinar*, *Intern @ ZeroDayArena (ZDA)*  
 - 💵 **Freelancer:** 10+ completed projects ✈️ attracting **foreign clients**  
 - ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥  
-- 📚 **Current Focus:** *Full Stack + DevOps + System Design*  
+- 📚 **Current Focus:** *Full Stack + DSA*  
 
 ---
 
