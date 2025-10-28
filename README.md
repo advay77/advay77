@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay%20Anand%20⚡%20Psycho%20Coder&fontSize=36&fontColor=ffffff&desc=🚀+Building+the+Multiverse+of+Code" alt="banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;AI+%26+DevOps+Enthusiast+🤖;Freelancer+%7C+Debugger+Hunter+🔥;Hackathon+Finalist+🏆;Open+Source+Contributor+🌍" alt="Typing Animation" />
-</p>
-
----
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay%20Anand%20⚡%20Psycho%20Coder%20&fontSize=32&fontColor=ffffff&desc=🕸️+Welcome+to+my+Multiverse+of+Code!+🧠&descAlignY=65" alt="Banner"> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;AI+%26+DevOps+Enthusiast+🤖;Freelancer+%7C+Debugger+Hunter+🔥;Hackathon+Finalist+🏆;Open+Source+Contributor+🌍" alt="Typing Animation" /> </p> ---
 
 ## ⚡ About Me
 
