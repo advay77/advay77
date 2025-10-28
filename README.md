@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay%20Anand%20⚡%20Psycho%20Coder%20&fontSize=32&fontColor=ffffff&desc=🕸️+Welcome+to+my+Multiverse+of+Code!+🧠&descAlignY=65" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay%20Anand%20⚡%20Psycho%20Coder&fontSize=32&fontColor=ffffff&desc=🧠+Welcome+to+My+Multiverse+of+Code!" alt="Banner">
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 - 👨‍💻 **Name:** *Advay Anand*  
 - 🏆 **Hackathon Warrior:** *3× Finalist* — Top 7 *(Sharda)*, Top 20 *(Hackemon)*, Top 10 *(Code Kshetra)*  
-- 🧑‍💼 **Tech Community Leader:** Core Team @ **TechMasters** (15K+ members)  
+- 🧑‍💼 **Tech Community Leader:** Core Team @ **TechMasters (15K+ members)**  
 - 🌱 **Open Source Contributor:** *GSSOC*, *SWOC*, *Langflow*  
-- 🛠️ **Builder of Impact:** From **Healthcare 🚑 (`Instant-Care`)** to **AI 🤖 (`Neura-Twin`)**  
+- ⚙️ **Builder of Impact:** From **Healthcare 🚑 (`Instant-Care`)** to **AI 🤖 (`Neura-Twin`)**  
 - 💼 **Internships:** *Ex-Intern @ Growbinar*, *Intern @ ZeroDayArena (ZDA)*  
-- 💵 **Freelancer:** 10+ completed projects ✈️ attracting **foreign clients**  
-- ⚡ **Fun Fact:** I’m a **Psycho Coder** — I don’t “fix” bugs, I **annihilate** them 💥  
-- 📚 **Current Focus:** *Full Stack + DSA*  
+- 💵 **Freelancer:** 10+ completed projects ✈️ including **foreign clients**  
+- ⚡ **Fun Fact:** I don’t “fix” bugs — I **annihilate** them 💥  
+- 📚 **Current Focus:** *Full Stack + DSA + AI Integrations*  
 
 ---
 
@@ -56,15 +56,15 @@
 
 | 🚀 Project | 🧠 Stack | ✨ Highlights | 🌍 Demo |
 |------------|----------|---------------|---------|
-| **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | React, Node, Next.js, ElevenLabs, MongoDB | Personal AI, Personality test, custom UI/UX | ✅ Live |
-| **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | APIs, Gemini, React, Node, Maps | Emergency alert, chatbot, ayurvedic health guide | ✅ Live |
-| **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Face-ticket match, real-time GPS sync | ✅ Live |
-| **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | Next.js, IoT, Node.js | Biometric + AI based UPI replacement | ✅ Live |
-| **📊 [Restoran](https://roaring-pegasus-093c10.netlify.app/)** | Next.js, Flask, MongoDB | Restaurant booking + recommendation UI | ✅ Live |
-| **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps | Women safety, voice SOS, live tracking | ✅ Live |
-| **🧠 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon website for BizByte MAIT | ✅ Live |
+| **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | React, Node, Next.js, ElevenLabs, MongoDB | Personal AI assistant with dynamic personality test | ✅ Live |
+| **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | APIs, Gemini, React, Node, Maps | Smart emergency response system + health chatbot | ✅ Live |
+| **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Face-ticket match & real-time GPS tracker | ✅ Live |
+| **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | Next.js, IoT, Node.js | Biometric + AI powered payment gateway | ✅ Live |
+| **📊 [Restoran](https://roaring-pegasus-093c10.netlify.app/)** | Next.js, Flask, MongoDB | Restaurant booking + smart recommendations | ✅ Live |
+| **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps | Women safety app with voice-triggered SOS | ✅ Live |
+| **🧠 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF-style hackathon & tech fest platform | ✅ Live |
 
-> 🧩 Explore all projects on my [🌐 **Portfolio**](https://personal-bay-omega.vercel.app/)
+> 🧩 Explore more on my [🌐 **Portfolio**](https://personal-bay-omega.vercel.app/)
 
 ---
 
@@ -82,6 +82,7 @@
 ---
 
 ## 🧠 Quote I Live By  
+
 > *“Code like there’s no tomorrow, debug like you own the universe.”* 🚀  
 
 <p align="center">
