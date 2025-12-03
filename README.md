@@ -50,7 +50,7 @@
 | **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps API | Voice-triggered SOS + live tracking | ✅ Live |
 | **🧩 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon hosting platform | ✅ Live |
 
-> 🧠 See all projects at my [🌐 **Portfolio**](https://personal-bay-omega.vercel.app/)
+> 🧠 See all projects at my [🌐 **Portfolio**](https://portfolio-advay.vercel.app/)
 
 ---
 
