@@ -22,7 +22,7 @@
   <a href="https://instagram.com/advay_anand_7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
   <a href="https://x.com/AnandAdvay91289" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
   <a href="https://leetcode.com/u/Advay87/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="40" alt="LeetCode" /></a>
-  <a href="https://personal-bay-omega.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-advay.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
