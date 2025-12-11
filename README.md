@@ -44,11 +44,11 @@
 | 🚀 Project | 🧠 Stack | 💡 Key Features | 🌍 Live Demo |
 |------------|----------|----------------|--------------|
 | **🚆 [VocalX](https://www.vocalx.xyz/)** | Next.js, Express, Supabase, React.js, Whisper API, | Recruiting AI in place of HR's | ✅ Live |
+| **🚗 [G-Wheels](https://gowheels.online/)** | Next.js, Firebase, Node.js, EmailJS| Car rental website with an Admin Panel| ✅ Live |
 | **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | Next.js, Node, MongoDB, ElevenLabs | Personal AI with personality analysis | ✅ Live |
 | **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | React, Node, Gemini API | Emergency alert system + health AI chatbot | ✅ Live |
 | **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Real-time GPS tracking + face ticketing | ✅ Live |
 | **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | IoT, Next.js, Node | Biometric-based UPI alternative | ✅ Live |
-| **🛡️ [Safe-Her](https://guardian-voice-web.lovable.app/)** | Next.js, Python, Maps API | Voice-triggered SOS + live tracking | ✅ Live |
 | **🧩 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon hosting platform | ✅ Live |
 
 > 🧠 See all projects at my [🌐 **Portfolio**](https://portfolio-advay.vercel.app/)
