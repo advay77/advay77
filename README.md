@@ -6,9 +6,9 @@
 
 - 🧠 **Name:** *Advay Anand*  
 - 🏆 **Hackathon Warrior:** *3× Finalist* — Top 7 *(Sharda)*, Top 20 *(Hackemon)*, Top 10 *(Code Kshetra)*  
-- 👥 **Community Core:** *TechMasters* (15K+ Developers)  
+- 👥 **Community Core:** *TechMasters* (15K+ Developers), BugBaar (20k+ Members)
 - 🧩 **Open Source Contributor:** *Langflow*, *GSSOC*, *SWOC*  
-- 💼 **Internships:** *Growbinar*, *ZeroDayArena (ZDA)*  
+- 💼 **Internships:** *Growbinar*, *ZeroDayArena (ZDA)*, *Crensa (Tech-Lead)* 
 - 💵 **Freelancer:** 10+ projects delivered, including international clients  
 - 🛠️ **Focus Areas:** Full Stack, AI Integrations, DevOps  
 - 💣 **Fun Fact:** I don’t “debug” — I **hunt** bugs and leave none alive.  
@@ -43,6 +43,7 @@
 
 | 🚀 Project | 🧠 Stack | 💡 Key Features | 🌍 Live Demo |
 |------------|----------|----------------|--------------|
+| **🚆 [VocalX](https://www.vocalx.xyz/)** | Next.js, Express, Supabase, React.js, Whisper API, | Recruiting AI in place of HR's | ✅ Live |
 | **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | Next.js, Node, MongoDB, ElevenLabs | Personal AI with personality analysis | ✅ Live |
 | **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | React, Node, Gemini API | Emergency alert system + health AI chatbot | ✅ Live |
 | **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Real-time GPS tracking + face ticketing | ✅ Live |
