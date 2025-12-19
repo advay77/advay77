@@ -6,9 +6,9 @@
 
 - 🧠 **Name:** *Advay Anand*  
 - 🏆 **Hackathon Warrior:** *3× Finalist* — Top 7 *(Sharda)*, Top 20 *(Hackemon)*, Top 10 *(Code Kshetra)*  Organized *(5X Hackathon)*
-- 👥 **Community Core:** *TechMasters* (15K+ Developers), BugBaar (20k+ Members)
+- 👥 **Community Core:** *TechMasters* (5K+ Developers), BugBaar (20k+ Members)
 - 🧩 **Open Source Contributor:** *Langflow*, *GSSOC*, *SWOC*  
-- 💼 **Internships:** *Growbinar*, *ZeroDayArena (ZDA)*, *Crensa (Tech-Lead)* 
+- 💼 **Internships:** *Growbinar*, *ZeroDayArena (ZDA)*, *Crensa (Tech-Lead) - Present* 
 - 💵 **Freelancer:** 10+ projects delivered, including international clients  
 - 🛠️ **Focus Areas:** Full Stack, AI Integrations, DevOps  
 - 💣 **Fun Fact:** I don’t “debug” — I **hunt** bugs and leave none alive.  
