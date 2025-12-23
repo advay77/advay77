@@ -72,7 +72,7 @@
 
 > **Building:** Scalable AI-driven full-stack systems  
 > **Learning:** Cloud Deployments (AWS, GCP) + System Design  
-> **Goal:** Freelance portfolio worth ₹10L+ and an industry-level dev standard by 2026  
+> **Goal:** Freelancer and an industry-level dev standard by 2027  
 
 ---
 
