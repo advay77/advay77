@@ -71,7 +71,7 @@
 ## 🧩 Current Focus  
 
 > **Building:** Scalable AI-driven full-stack systems  
-> **Learning:** Cloud Deployments (AWS, GCP) + Devops 
+> **Learning:** Cloud Deployments (AWS, GCP) + Devops + AI
 > **Goal:** Freelancer and an industry-level dev standard by 2027  
 
 ---
