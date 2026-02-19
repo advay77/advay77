@@ -45,7 +45,7 @@
 |------------|----------|----------------|--------------|
 | **🧑🏻‍💼 [InterviewX](https://interviewx-sooty.vercel.app/)** | Next.js, Express, Supabase, React.js, Whisper API, | Recruiting AI in place of HR's | ✅ Live |
 | **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | Next.js, Node, MongoDB, ElevenLabs | Personal AI with personality analysis | ✅ Live |
-| **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | React, Node, Gemini API | Emergency alert system + health AI chatbot | ✅ Live |
+| **🌍 [Edunex-Global](https://www.edunexglobal.com/)** | React, Node, GMAIL SERVICES | International Education consulting firm | ✅ Live |
 | **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Real-time GPS tracking + face ticketing | ✅ Live |
 | **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | IoT, Next.js, Node | Biometric-based UPI alternative | ✅ Live |
 | **🧩 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon hosting platform | ✅ Live |
