@@ -43,7 +43,7 @@
 
 | 🚀 Project | 🧠 Stack | 💡 Key Features | 🌍 Live Demo |
 |------------|----------|----------------|--------------|
-| **🚆 [InterviewX](https://interviewx-sooty.vercel.app/)** | Next.js, Express, Supabase, React.js, Whisper API, | Recruiting AI in place of HR's | ✅ Live |
+| **🧑🏻‍💼 [InterviewX](https://interviewx-sooty.vercel.app/)** | Next.js, Express, Supabase, React.js, Whisper API, | Recruiting AI in place of HR's | ✅ Live |
 | **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | Next.js, Node, MongoDB, ElevenLabs | Personal AI with personality analysis | ✅ Live |
 | **🌍 [Instant-Care](https://instant-care-tau.vercel.app/)** | React, Node, Gemini API | Emergency alert system + health AI chatbot | ✅ Live |
 | **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Real-time GPS tracking + face ticketing | ✅ Live |
