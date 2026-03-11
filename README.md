@@ -66,13 +66,11 @@
 
 ---
 
-## 🧩 Current Focus  
+## 📊 3D Contribution Graph
 
-> **Building:** Scalable AI-driven full-stack systems  
-> **Learning:** Cloud Deployments (AWS, GCP) + Devops + AI
-> **Goal:** Freelancer and an industry-level dev standard by 2027  
-
----
+<p align="center">
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=advay77&theme=tokyonight" />
+</p>
 
 ## ⚔️ Philosophy  
 
