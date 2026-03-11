@@ -66,12 +66,6 @@
 
 ---
 
-## 📊 3D Contribution Graph
-
-<p align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=advay77&theme=tokyonight" />
-</p>
-
 ## ⚔️ Philosophy  
 
 > *“Code like there’s no tomorrow. Debug like you built the Matrix.”*  
