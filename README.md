@@ -6,7 +6,7 @@
 
 - 🧠 **Name:** *Advay Anand*  
 - 🏆 **Hackathon Warrior:** *3× Finalist* — Winner *(Techsprint-GDG)*, Top 7 *(Sharda)*, Top 20 *(Hackemon)*, Top 10 *(Yukti 1.0)*  Organized *(5X Hackathon)*
-- 👥 **Community Core:** *TechMasters* (5K+ Developers), *GSA* (Mentor and Tech-Lead)
+- 👥 **Community Core:** *TechMasters* (500+ Developers), *GSA* (Mentor and Tech-Lead)
 - 💼 **Internships:** *Growbinar*, *Crensa*, *Vision-Mentix-Present*  
 - 💵 **Freelancer:** 10+ projects delivered, including clients from different domains. 
 - 🛠️ **Focus Areas:** Full Stack, AI Integrations, ML Models
